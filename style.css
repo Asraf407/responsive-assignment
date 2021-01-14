@@ -1,0 +1,65 @@
+img{
+    height: 250px;
+    width: 80px;
+}
+.nav-items{
+    position: relative;
+    left: 300px;
+    color: #ffffff;
+    margin-left: 40px;
+}
+
+
+.logo{
+    height: 70px;
+    width: 100px;
+}
+.top-part{
+    width: auto;
+}
+
+.link-items{
+    position: relative;
+    left: 250px;
+    
+}
+.brand-color{
+    color: rgb(240, 71, 14);
+}
+.img-top{
+    height: 100px;
+    width: 100px;
+
+}
+    
+.image-first{
+    position: relative;
+    left: 150px;
+    height: 55%;
+    width: 40%;
+    margin-bottom: 100px;
+
+}
+
+.color-text1 ,.btn-color{
+    color: peru;
+}
+
+.color-text{
+    color:rebeccapurple
+}
+
+.img-responsive {
+    height:100%;
+    width:100%;
+    margin-top: 100px;
+ }
+
+.image-container
+{
+ width:250px;
+ height:640px;
+ margin-top: 100px;
+}
+
+
